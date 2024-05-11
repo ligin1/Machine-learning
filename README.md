@@ -8,4 +8,6 @@ This repository contains codes and explanations of some basic concepts of machin
 
 * Dataset - The IMDb movie review dataset is a widely used benchmark dataset for sentiment analysis tasks. It consists of 50,000 movie reviews, split into 25,000 reviews for training and 25,000 reviews for testing. Each review is labeled as either positive or negative.
 
-* Code Generation - The codes and explanations in this project were generated using different prompts from OpenAI's ChatGPT. This approach was used to automate the process of writing code and explanations, saving time and effort in documentation.
+* Code Generation - The codes and explanations in this project were generated using different prompts from OpenAI's ChatGPT. 
+
+* Environment setup - conda create --name ML python=3.9 tensorflow jupyterlab
